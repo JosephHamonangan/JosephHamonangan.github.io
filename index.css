@@ -1,0 +1,115 @@
+.parent{display:grid;grid-template-columns:repeat(4,1fr);grid-column-gap:5px;grid-row-gap:5px}.parent2{display:grid;grid-template-columns:repeat(2,1fr);grid-column-gap:5px;grid-row-gap:5px}.parentauto{display:grid;grid-template-columns:repeat(4,auto);grid-column-gap:2px;grid-row-gap:2px}.parentmobile{display:grid;grid-template-columns:repeat(2,1fr);grid-column-gap:2px;grid-row-gap:2px}.div4{grid-row:span 2}.item{display:grid;justify-content:center;align-items:center;margin:0px!important;min-height:250px;min-width:250px;background-size:cover!important;background-position:center}.itemmobile{display:grid;justify-content:center;align-items:center;margin:0px!important;min-height:250px;min-width:40%px;background-size:cover!important;background-position:center}.et-menu li li a{font-size:15px!important}.et-menu li li a:hover{border-bottom:1px solid #f6dc84;border-top:1px solid #f6dc84;;opacity:1}#top-menu-nav>ul>li>a:hover{transition:none;opacity:1}@media only screen and (max-width:980px){.three-columns .et_pb_column{width:50%!important}}.custom-html-widget{margin-top:-75px}.widgetbutton{margin-top:-75px}.underwidget{padding-bottom:10px}.et_pb_gutters3 .et_pb_column_1_4 .et_pb_widget{margin-bottom:5%}.downloads{border-top:1px solid #24346a;border-bottom:1px solid #24346a;width:150px;padding-top:10px}.anchortext{color:#24346a}.et_mobile_menu .first-level>a{background-color:transparent;position:relative}.et_mobile_menu .first-level>a:after{font-family:'ETmodules';content:'\4c';font-weight:normal;position:absolute;font-size:16px;top:13px;right:10px}.et_mobile_menu .first-level>.icon-switch:after{content:'\4d'}.second-level{display:none}.et-pb-contact-message{color:#fff}.reveal-items{display:block}.mobile_menu_bar:before{color:#385a7f}input.wpcf7-form-control{background-color: #4d5775;border-radius:5px;color:#fff;border:none;border-bottom:1px solid #fff}.wpcf7-form{background-color:#657198;border-radius:10px;padding-top:20px;padding-bottom:20px;padding-left:20px}.wpcf7-form label{font-size:14px;color:white;font-weight:600}textarea.wpcf7-form-control.wpcf7-textarea{background-color: #4d5775;border-radius:5px}div.wpcf7-validation-errors,div.wpcf7-acceptance-missing{border:2px solid #f7e700;color:#fff}textarea:focus{color:#fff}input[type=text]:focus{color:#fff}input.wpcf7-form-control.wpcf7-submit.contactButton{background-color:#fff;color:#4d5775}
+
+#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}.et_slide_in_menu_container,.et_slide_in_menu_container .et-search-field{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-moz-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-webkit-input-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field:-ms-input-placeholder{letter-spacing:px}@media only screen and (min-width:981px){.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:60px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:60px}.et_header_style_split .centered-inline-logo-wrap{width:120px;margin:-120px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:120px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:120px}.et_header_style_centered #top-menu>li>a{padding-bottom:22px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:51px 0 51px 0!important}.et_header_style_centered #main-header .logo_container{height:120px}#logo{max-height:100%}.et_pb_svg_logo #logo{height:100%}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}	h1,h2,h3,h4,h5,h6{font-family:'Raleway',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Raleway',Helvetica,Arial,Lucida,sans-serif}.et_pb_section_0_tb_header.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:-12px}.et_pb_row_1_tb_header{border-bottom-width:2px;border-bottom-color:#f6dc84}.et_pb_row_0_tb_header{border-bottom-width:2px;border-bottom-color:#f6dc84}.et_pb_row_0_tb_header.et_pb_row{padding-bottom:4px!important;padding-bottom:4px}.et_pb_row_0_tb_header,body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row{width:100%;max-width:100%}.et_pb_row_1_tb_header,body #page-container .et-db #et-boc .et-l .et_pb_row_1_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1_tb_header.et_pb_row{width:100%;max-width:100%}.et_pb_menu_1_tb_header.et_pb_menu ul li a{font-size:24px;color:#24336b!important}.et_pb_menu_0_tb_header.et_pb_menu ul li a{font-size:24px;color:#24336b!important}.et_pb_menu_1_tb_header.et_pb_menu{background-color:#ffffff}.et_pb_menu_0_tb_header.et_pb_menu{background-color:#ffffff}.et_pb_menu_0_tb_header{padding-top:10px;margin-top:55px!important}.et_pb_menu_0_tb_header.et_pb_menu .nav li ul{background-color:#ffffff!important}.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu,.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_menu_1_tb_header.et_pb_menu .et_mobile_menu,.et_pb_menu_1_tb_header.et_pb_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_menu_1_tb_header.et_pb_menu .nav li ul{background-color:#ffffff!important}.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo,.et_pb_menu_0_tb_header .et_pb_menu__logo-slot{max-width:100%}.et_pb_menu_1_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo,.et_pb_menu_1_tb_header .et_pb_menu__logo-slot{max-width:100%}.et_pb_menu_1_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_1_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{max-height:none}.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_0_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{max-height:none}.et_pb_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button{color:#7EBEC5}.et_pb_menu_1_tb_header .mobile_nav .mobile_menu_bar:before{color:#7EBEC5}.et_pb_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#7EBEC5}.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button{color:#7EBEC5}.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#7EBEC5}.et_pb_menu_0_tb_header .mobile_nav .mobile_menu_bar:before{color:#7EBEC5}.et_pb_image_1_tb_header .et_pb_image_wrap img{height:150px}.et_pb_image_0_tb_header .et_pb_image_wrap img{height:150px}.et_pb_image_0_tb_header{text-align:right;margin-right:0}.et_pb_row_1_tb_header.et_pb_row{padding-top:4px!important;padding-top:4px}.et_pb_image_1_tb_header{text-align:center}.et_pb_menu_1_tb_header{padding-top:10px;margin-top:-21px!important}@media only screen and (min-width:981px){.et_pb_row_1_tb_header{display:none!important}}@media only screen and (max-width:980px){.et_pb_row_0_tb_header{border-bottom-width:2px;border-bottom-color:#f6dc84}.et_pb_row_1_tb_header{border-bottom-width:2px;border-bottom-color:#f6dc84}.et_pb_image_0_tb_header{margin-left:auto;margin-right:auto}.et_pb_image_1_tb_header{margin-left:auto;margin-right:auto}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_row_0_tb_header{display:none!important}}@media only screen and (max-width:767px){.et_pb_row_0_tb_header{border-bottom-width:2px;border-bottom-color:#f6dc84;display:none!important}.et_pb_image_0_tb_header{margin-left:auto;margin-right:auto}.et_pb_image_1_tb_header{margin-left:auto;margin-right:auto}.et_pb_row_1_tb_header{border-bottom-width:2px;border-bottom-color:#f6dc84}}div.et_pb_section.et_pb_section_0_tb_footer{background-size:initial;background-repeat:repeat-x;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/novatekArtboard-11-copy-4200.png)!important}.et_pb_section_0_tb_footer.et_pb_section{padding-top:2px;padding-bottom:0px}.et_pb_section_0_tb_footer{width:100%;max-width:100%}.et_pb_row_0_tb_footer,body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row{width:100%;max-width:100%}.et_pb_row_1_tb_footer,body #page-container .et-db #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row{width:100%;max-width:100%}.et_pb_row_0_tb_footer{background-color:#f3f1e9}.et_pb_image_0_tb_footer{padding-left:50px;text-align:center}.et_pb_text_1_tb_footer.et_pb_text{color:#24336b!important}.et_pb_text_0_tb_footer.et_pb_text{color:#24336b!important}.et_pb_text_0_tb_footer.et_pb_text a{color:#24336b!important}.et_pb_text_1_tb_footer p{line-height:1em}.et_pb_text_0_tb_footer p{line-height:1em}.et_pb_text_0_tb_footer{font-weight:300;line-height:1em}.et_pb_text_1_tb_footer{font-weight:300;line-height:1em}.et_pb_text_0_tb_footer h1{font-weight:700;color:#24336b!important}.et_pb_text_1_tb_footer h1{font-weight:700;color:#24336b!important}.et_pb_text_0_tb_footer h6{font-weight:600;text-transform:uppercase;color:#24336b!important}.et_pb_text_1_tb_footer h6{font-weight:600;text-transform:uppercase;color:#24336b!important}.et_pb_social_media_follow_0_tb_footer li a.icon:before{font-size:30px;line-height:60px;height:60px;width:60px}.et_pb_social_media_follow_0_tb_footer li a.icon{height:60px;width:60px}.et_pb_row_1_tb_footer{background-color:#24336b}.et_pb_row_1_tb_footer.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_text_2_tb_footer.et_pb_text{color:#ffffff!important}.et_pb_text_2_tb_footer{padding-top:10px!important;padding-bottom:10px!important;padding-left:77px!important}.et_pb_social_media_follow_network_0_tb_footer a.icon{background-color:#3b5998!important}.et_pb_social_media_follow_network_1_tb_footer a.icon{background-color:#007bb6!important}.et_pb_social_media_follow_network_2_tb_footer a.icon{background-color:#a82400!important}@media only screen and (max-width:980px){.et_pb_image_0_tb_footer{margin-left:auto;margin-right:auto}}@media only screen and (max-width:767px){.et_pb_image_0_tb_footer{margin-left:auto;margin-right:auto}}.et_pb_section_0.et_pb_section{padding-top:0px;padding-bottom:0px}.et_pb_row_0{background-color:#fcbc15}.et_pb_row_0,body #page-container .et-db #et-boc .et-l .et_pb_row_0.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0.et_pb_row{width:100%;max-width:100%}.et_pb_row_1,body #page-container .et-db #et-boc .et-l .et_pb_row_1.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1.et_pb_row{width:100%;max-width:100%}.et_pb_row_2,body #page-container .et-db #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_2.et_pb_row{width:100%;max-width:100%}.et_pb_text_0{font-size:20px}.et_pb_row_1.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_text_4.et_pb_text{color:#ffffff!important}.et_pb_text_7.et_pb_text{color:#ffffff!important}.et_pb_text_5.et_pb_text{color:#ffffff!important}.et_pb_text_6.et_pb_text{color:#ffffff!important}.et_pb_text_1.et_pb_text{color:#ffffff!important}.et_pb_text_2.et_pb_text{color:#ffffff!important}.et_pb_text_3.et_pb_text{color:#ffffff!important}.et_pb_text_1{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/machined-part.jpg);background-color:rgba(36,51,107,0.8);position:relative;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_text_2{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/DrillRig02.jpg);background-color:rgba(36,51,107,0.8);position:relative;border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_text_3{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/wood-clamp.jpg);background-color:rgba(36,51,107,0.8);position:relative;border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_text_4{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/Design.jpg);background-color:rgba(36,51,107,0.8);position:relative;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_text_5{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/Installed-machinery2.jpg);background-color:rgba(36,51,107,0.8);position:relative;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_text_6{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/Mining-equipment.jpg);background-color:rgba(36,51,107,0.8);position:relative;border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_text_7{font-size:25px;background-blend-mode:overlay;background-image:url(https://novatek.co.za/wp-content/uploads/2020/06/vernierbearing.jpg);background-color:rgba(36,51,107,0.8);position:relative;border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84;padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important}.et_pb_row_2.et_pb_row{padding-bottom:1px!important;margin-top:-9px!important;margin-right:auto!important;margin-left:auto!important;padding-bottom:1px}.et_pb_text_8.et_pb_text{color:#000000!important}.et_pb_text_9.et_pb_text{color:#000000!important}.et_pb_text_8{font-family:'Raleway',Helvetica,Arial,Lucida,sans-serif;font-weight:300;font-size:35px;padding-right:5px!important;padding-left:5px!important;margin-top:8px!important;margin-bottom:7px!important}.et_pb_divider_0{padding-top:8px;max-width:20%}.et_pb_divider_0:before{border-top-color:#f6dc84;border-top-width:3px;width:auto;top:8px;right:0px;left:0px}.et_pb_row_3.et_pb_row{padding-top:0px!important;padding-top:0px}.et_pb_row_3,body #page-container .et-db #et-boc .et-l .et_pb_row_3.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_3.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_3.et_pb_row{width:100%;max-width:95%}.et_pb_text_9{font-weight:300;font-size:20px;padding-right:5px!important;padding-left:5px!important}.et_pb_image_0{text-align:center}.et_pb_divider_0.et_pb_module{margin-left:auto!important;margin-right:auto!important}@media only screen and (max-width:980px){.et_pb_text_2{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_3{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_6{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_7{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_image_0{margin-left:auto;margin-right:auto}}@media only screen and (max-width:767px){.et_pb_text_0{font-size:12px}.et_pb_row_1{display:none!important}.et_pb_text_2{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_3{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_6{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_7{border-top-width:2px;border-bottom-width:2px;border-top-color:#f6dc84;border-bottom-color:#f6dc84}.et_pb_text_8{font-size:25px}.et_pb_image_0{margin-left:auto;margin-right:auto}}
+
+.wpcf7 .screen-reader-response {
+	position: absolute;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	width: 1px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.wpcf7 form .wpcf7-response-output {
+	margin: 2em 0.5em 1em;
+	padding: 0.2em 1em;
+	border: 2px solid #00a0d2; /* Blue */
+}
+
+.wpcf7 form.init .wpcf7-response-output {
+	display: none;
+}
+
+.wpcf7 form.sent .wpcf7-response-output {
+	border-color: #46b450; /* Green */
+}
+
+.wpcf7 form.failed .wpcf7-response-output,
+.wpcf7 form.aborted .wpcf7-response-output {
+	border-color: #dc3232; /* Red */
+}
+
+.wpcf7 form.spam .wpcf7-response-output {
+	border-color: #f56e28; /* Orange */
+}
+
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output {
+	border-color: #ffb900; /* Yellow */
+}
+
+.wpcf7-form-control-wrap {
+	position: relative;
+}
+
+.wpcf7-not-valid-tip {
+	color: #f00;
+	font-size: 1em;
+	font-weight: normal;
+	display: block;
+}
+
+.use-floating-validation-tip .wpcf7-not-valid-tip {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	z-index: 100;
+	border: 1px solid #ff0000;
+	background: #fff;
+	padding: .2em .8em;
+}
+
+span.wpcf7-list-item {
+	display: inline-block;
+	margin: 0 0 0 1em;
+}
+
+span.wpcf7-list-item-label::before,
+span.wpcf7-list-item-label::after {
+	content: " ";
+}
+
+div.wpcf7 .ajax-loader {
+	visibility: hidden;
+	display: inline-block;
+	background-image: url('../../images/ajax-loader.gif');
+	width: 16px;
+	height: 16px;
+	border: none;
+	padding: 0;
+	margin: 0 0 0 4px;
+	vertical-align: middle;
+}
+
+div.wpcf7 .ajax-loader.is-active {
+	visibility: visible;
+}
+
+div.wpcf7 div.ajax-error {
+	display: none;
+}
+
+div.wpcf7 .placeheld {
+	color: #888;
+}
+
+div.wpcf7 input[type="file"] {
+	cursor: pointer;
+}
+
+div.wpcf7 input[type="file"]:disabled {
+	cursor: default;
+}
+
+div.wpcf7 .wpcf7-submit:disabled {
+	cursor: not-allowed;
+}
+
+.wpcf7 input[type="url"],
+.wpcf7 input[type="email"],
+.wpcf7 input[type="tel"] {
+	direction: ltr;
+}
